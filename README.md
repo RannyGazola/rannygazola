@@ -37,42 +37,8 @@ Acredito no conceito de Life Long Learning como base para o crescimento pessoal 
 <img width="1920" height="1080" alt="Dashboard Projetos" src="https://github.com/user-attachments/assets/41a02125-ef02-4c85-94a9-2db207f5bc22" />
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/f05cbf02-4fc9-48f0-a971-2bd7d6eeca3a" />
 
-
-
-# 📚 **Cursos de Extensão**
-- Banco de Dados e Linguagem SQL com PostgreSQL, 16h com Jones Granatyr - Udemy
-- Curso PowerBI - Formação Analista de BI de Sandro Severino, 28 horas - Udemy
-- Python para Data Science: primeiros passos, 10h - Alura
-- Python para Data Science: trabalhando com funções, estruturas de dados e exceções, 8h - Alura
-- Pandas: transformação e manipulação de dados, 6h - Alura
-- Pandas: conhecendo a biblioteca, 8h - Alura
-- Pandas I/O: trabalhando com diferentes formatos de arquivos, 8h - Alura
-- NumPy: análise numérica eficiente com Python, 8h - Alura
-- Modelagem de dados: identificando entidades, atributos, relacionamentos, 8h - Alura
-- Modelagem de dados: desenvolvendo o modelo lógico, 8h - Alura
-- Modelagem de dados: construindo o modelo físico, 8h - Alura
-- SQL para Análise de Dados: Do básico ao avançado com Midori Toyota, 6h - Udemy
-- Pentaho Data Integration - Aprenda ETL na prática com Marciel José, 6h - Udemy
-- Data Visualization: criando gráficos com bibliotecas Python, 10h - Alura
-- Séries Temporais e Análises Preditivas: O Curso Completo com Fernando Amaral, 6h - Udemy
-- Git e GitHub: compartilhando e colaborando em projetos, 8h - Alura
-- Gestão Ágil: explorando conceitos da agilidade, 8h - Alura
-- ChatGPT: otimizando a qualidade dos resultados, 8h - Alura
-- Lógica de programação: explore funções e listas, 6h - Alura
-- Lógica de programação: mergulhe em programação com JavaScript, 6h - Alura
-- Aprender a aprender: técnicas para seu autodesenvolvimento, 8h - Alura
-- Desenvolvimento de carreira: a demanda do mercado, 10h - Alura
-- Foco: trazendo mais resultados para o dia a dia, 10h - Alura
-- Hábitos: da produtividade às metas pessoais, 6h - Alura
-- Empreendedorismo: da ideia ao plano de negócios, 8h - Alura
-- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags, 8h - Alura
-- HTML e CSS: Classes, posicionamento e Flexbox, 8h - Alura
-- HTML e CSS: cabeçalho, footer e variáveis CSS, 6h - Alura
-- HTML e CSS: trabalhando com responsividade e publicação de projetos, 6h - Alura
-
 # 🏅 **Certificações**
 ONE | TECH FOUNDATION - Especialização Data Science - Alura & Oracle
-
 
 # 🛠️ **Competências Técnicas**
 ✅ Linguagem SQL (PostgreSQL, MySQL, Oracle, SQL Server)
