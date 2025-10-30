@@ -1,5 +1,7 @@
 # **Ranny Gazola Fontana** | [LinkedIn](https://www.linkedin.com/in/rannygazola/)
 
+![RannyGazola's GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rannygazola&theme=radical)
+
 👋  Seja bem-vindo(a)! Aqui você vai encontrar projetos que desenvolvi durante minha trajetória acadêmica e profissional.
 
 # 💼 **Sobre Mim**
