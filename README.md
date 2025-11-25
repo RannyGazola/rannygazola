@@ -33,6 +33,7 @@ Acredito no conceito de Life Long Learning como base para o crescimento pessoal 
 - Comunicação Visual, ETEC Carlos de Campos - 2018
 
 # 📁 **Portfólio**
+<img width="1920" height="1080" alt="Dashboard Projetos" src="https://github.com/user-attachments/assets/52048e77-7f3f-4834-a5fc-4e88abcd82e5" />
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/adae553e-3a0c-4888-a8d4-f5391b5e7be7" />
 <img width="1920" height="1080" alt="Dashboard Projetos (1)" src="https://github.com/user-attachments/assets/5974d408-5d12-4b5c-a4c8-000cd555b768" />
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/bcf92a52-8f4b-4710-add3-bb4073184048" />
