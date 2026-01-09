@@ -5,11 +5,11 @@
 👋  Seja bem-vindo(a)! Aqui você vai encontrar projetos que desenvolvi durante minha trajetória acadêmica e profissional.
 
 # 💼 **Sobre Mim**
-Sou formada em Tecnologia da Informação e atualmente curso uma segunda graduação em Ciência de Dados. Com 8 anos de experiência na área de design gráfico, consigo integrar criatividade e análise de dados no desenvolvimento de soluções visuais e dashboards eficazes.
+SSou Analista de Dados / Business Intelligence, com formação em Tecnologia da Informação e atualmente cursando uma segunda graduação em Ciência de Dados. Atuo na interseção entre dados, visualização e tomada de decisão, unindo uma base analítica à minha experiência em design.
 
-Sou uma pessoa comunicativa, colaborativa e com facilidade para trabalhar em equipe. Prezo pela escuta ativa e pela empatia no ambiente de trabalho, buscando sempre construir relações de confiança e respeito. Tenho iniciativa para propor soluções, me adapto bem a novos contextos e mantenho o foco no propósito coletivo, contribuindo para ambientes mais produtivos e integrados.
+Minha transição para dados começou na Distripet Martinez (2021–2023), onde integrei análises de movimentação de produtos aos projetos gráficos de catálogos. Essa abordagem contribuiu para que a empresa atingisse R$ 2 milhões em vendas pela primeira vez, apenas 8 meses após minha entrada, além de gerar R$ 200 mil/mês em receita incremental com campanhas estratégicas. Em 2024, apliquei essa mesma abordagem em outras empresas por meio da Sagaz Criatividade Digital e liderei a equipe criativa da FEAL Consultoria como Supervisora Operacional de Criação. Meu primeiro passo 100% na área de dados foi na Secretaria da Educação de Guarulhos, onde atuei por 1 ano como Analista de Dados Educacionais.
 
-Acredito no conceito de Life Long Learning como base para o crescimento pessoal e profissional. Estou sempre em busca de novos conhecimentos e habilidades, seja por meio de estudos formais, cursos ou práticas diárias.
+Atualmente, atuo na LoyaltyCom na área de Business Intelligence como Analista de Dados, com foco no desenvolvimento de dashboards em Power BI, automação de processos analíticos e pipelines de ETL, utilizando Python, R, n8n e Power Automate, apoiando a tomada de decisão baseada em dados e indicadores estratégicos.
 
 **Experiência**
 
